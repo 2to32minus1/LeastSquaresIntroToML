@@ -13,7 +13,7 @@ Note: I am *not* an R expert, so the included code is as-is.  The code was inten
 
 In order to make the code more readable to a wider audience of potentially non-R coders, I chose to limit the use of R idioms and also used the '=' assignment operator instead of the '<-' operator.  In addition, I used camel-casing instead of dashes in variable and function names.
 
-In addition to this repo on Github, I have a web page for this project on my personal website(URL at bottom) which has more information about the code and a grid/table of many of the plot thumbnails which allows the user to click on a plot thumbnail and be taken to a sub-page with both the R code and the associated full-sized plot PNG file.
+In addition to this repo on Github, I have a web page for this project on my personal website(URL at bottom) which has more information about the code/R code techniques used, and a grid/table of many of the plot thumbnails which allows the user to click on a plot thumbnail and be taken to a sub-page with both the R code and the associated full-sized plot PNG file.
 
 The code consists of (2) main R files:
   - Examples.R [example-specific computations and plotting code]
