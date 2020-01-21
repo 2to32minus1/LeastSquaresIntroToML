@@ -25,7 +25,7 @@ In addition:
 
 Finally, I am including the PowerPoint slide deck .pptx file and a PDF export of this file.  In addition, I split the deck into (2) parts, and these split deck files are also included.
 
-Note: This work is copyrighted.  Contact me via email for use inquiries.
+Note: This work is copyrighted.  Contact me via email (below) for usage inquiries.
 
 Thanks for looking.  Feedback is welcome via my Gmail/email account, below.
 
