@@ -32,4 +32,4 @@ Thanks for looking.  Feedback is welcome via my Gmail/email account, below.
 Richard Creamer, 1/20/2020
 Email: 2to32minus1@gmail.com
 Website: https://sites.google.com/site/rickcreamer
-Project page: https://sites.google.com/site/rickcreamer/Home/r/leastsquaresintrotoml
+Project page: https://sites.google.com/site/rickcreamer/richard-creamers-personal-website/ml-curve-fitting-intro
