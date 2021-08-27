@@ -1,6 +1,8 @@
 # LeastSquaresIntroToML
 Project introducing ML math concepts via least-squares curve fitting
 
+UPDATE: This README file and some of the pptx and pdf files are out of date.  I do not have time to re-learn Git to fix right now.  Very sorry.  What is here is pretty close to newer versions I am unable to upload/update.
+
 Hello,
 
 Last year, I noticed that some people at a local AI Meetup appeared to be new to ML and seemed to have trouble following some of the more advanced presentations (as did I!).  Some of these people may have had rusty Calculus knowledge as well (me too!).
